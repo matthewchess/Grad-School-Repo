@@ -1,0 +1,9 @@
+#OS files
+
+.DS_Store
+Thumbs.db, ehthumbs.db
+.*.swp
+
+__pycache__/, *.pyc, .pytest_cache/
+
+env/, venv/, .venv/

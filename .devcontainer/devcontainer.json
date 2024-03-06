@@ -1,0 +1,13 @@
+{
+    "name": "Python Development",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3",
+    "settings": { 
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-python.python"
+    ],
+    "postCreateCommand": "pip install -r /matthewchess/siads516/requirements.txt",
+    "forwardPorts": [],
+    "remoteUser": "vscode"
+}
