@@ -7,7 +7,7 @@
     "extensions": [
         "ms-python.python"
     ],
-    "postCreateCommand": "pip install -r /matthewchess/siads516/requirements.txt",
+    "postCreateCommand": "pip install -r requirements.txt",
     "forwardPorts": [],
     "remoteUser": "vscode"
 }
