@@ -1,2 +1,7 @@
 pandas
 dask
+matplotlib
+ipykernel
+numpy
+statsmodels
+scikit-learn
