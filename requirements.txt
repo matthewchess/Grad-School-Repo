@@ -5,3 +5,4 @@ ipykernel
 numpy
 statsmodels
 scikit-learn
+mlxtend
