@@ -1,9 +1,15 @@
-#OS files
-
+# OS files
 .DS_Store
-Thumbs.db, ehthumbs.db
+Thumbs.db
+ehthumbs.db
 .*.swp
 
-__pycache__/, *.pyc, .pytest_cache/
+# Python-related
+__pycache__/
+*.pyc
+.pytest_cache/
 
-env/, venv/, .venv/
+# Virtual environments
+env/
+venv/
+.venv/
